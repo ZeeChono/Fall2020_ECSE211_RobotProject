@@ -15,6 +15,7 @@ Timesheet.xlsx records contribution hours of each week labeled inside the file a
 This folder contains the poster and trailer of our project during the competition day.
 ### Project Controller:
 This is where the brain of our project located at. Inside the folder is a zip file containing the controller our group members were working at during past 6 weeks.
+Version of each week is listed by zip file sequentially, where `Team02_Controller_Final.zip` is our final version of controller.
 Note: inside the world file, the world file with name `DpmProject_FINAL` is our final version model used in competition.
 ### Supporting Documents:
 It contains three subfolders: **Hardware, Software and Testing** three documents with all versions.
