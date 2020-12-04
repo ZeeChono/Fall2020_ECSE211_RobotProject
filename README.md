@@ -14,13 +14,14 @@ Timesheet.xlsx records contribution hours of each week labeled inside the file a
 ### Presentation Material:
 This folder contains the poster and trailer of our project during the competition day.
 ### Project Controller:
-This is where the brain of our project located at. Inside the folder is the directory our group members were working at during past 6 weeks.
+This is where the brain of our project located at. Inside the folder is a zip file containing the controller our group members were working at during past 6 weeks.
+Note: inside the world file, the world file with name `DpmProject_FINAL` is our final version model used in competition.
 ### Supporting Documents:
 It contains three subfolders: **Hardware, Software and Testing** three documents with all versions.
 #### Hardware:
 In addition to documents, there's also LeoCad drawings of all our robot versions, which is ATOM AV1 to ATOM AV6 total of 6 evolutional designs as the project went on. Proto files of corresponding version of hardware is also presented parallelly. 
 #### Software:
-It only contains software documents with all versions as the project went on.
+It contains software documents with all versions as the project went on, there's also javadoc.zip file captures the structure of our controller.
 #### Testing:
 Aside from documents, it contains the original data gathered during the testing phase of project.
 #### Final Report:
