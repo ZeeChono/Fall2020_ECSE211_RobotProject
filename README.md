@@ -1,10 +1,10 @@
 # Fall2020_ECSE211_Team02_Atom Project
 ## Structure
-The first level directory contains four folders: **Main Documents, Management, Presentation Material, ProjectController, and Supporting Documents**  
+The first level directory contains four folders: **Main Documents, Management, Presentation Material, ProjectController, Supporting Documents, and Final Report**  
 The lines following are going to explain the structures of these four main folders.
 
 ### Main Documents:
-Under this directory, there are **Capabilities Documents, Constraints Documents, Requirements Documents, System Documents and Final Report**. Each folder contains relative documents with various versions. The naming convention of the documents are `X.AB`, where `X` stands for which week was that document be revised and `AB` stands for how many times that document is modified during that week.   
+Under this directory, there are **Capabilities Documents, Constraints Documents, Requirements Documents, System Documents**. Each folder contains relative documents with various versions. The naming convention of the documents are `X.AB`, where `X` stands for which week was that document be revised and `AB` stands for how many times that document is modified during that week.   
 
 For example: file `Requirements_1.01` means this requirements document is created in **first week**, and this is the **first version during that week**.  
 ### Management:
@@ -23,3 +23,5 @@ In addition to documents, there's also LeoCad drawings of all our robot versions
 It only contains software documents with all versions as the project went on.
 #### Testing:
 Aside from documents, it contains the original data gathered during the testing phase of project.
+#### Final Report:
+It's the final report pdf signed by all members from Team02.
