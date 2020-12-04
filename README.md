@@ -22,11 +22,7 @@
 The lines following are going to explain the structures of these four main folders.
 
 ### Main Documents:
-Under this directory, there are 
-- Capabilities Documents
-- Constraints Documents
-- Requirements Documents
-- System Documents  
+Under this directory, there are:**Capabilities Documents, Constraints Documents, Requirements Documents, and System Documents**  
 
 Each folder contains relative documents with various versions. The naming convention of the documents are `X.AB`, where `X` stands for which week was that document be revised and `AB` stands for how many times that document is modified during that week.   
 
