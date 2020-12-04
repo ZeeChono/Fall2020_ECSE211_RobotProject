@@ -14,7 +14,7 @@ Timesheet.xlsx records contribution hours of each week labeled inside the file a
 ### Presentation Material:
 This folder contains the poster and trailer of our project during the competition day.
 ### Project Controller:
-This is where the brain of our project sit at. Inside the folder is the directory our group members were working at during past 6 weeks.
+This is where the brain of our project located at. Inside the folder is the directory our group members were working at during past 6 weeks.
 ### Supporting Documents:
 It contains three subfolders: **Hardware, Software and Testing** three documents with all versions.
 #### Hardware:
