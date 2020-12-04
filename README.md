@@ -24,5 +24,5 @@ In addition to documents, there's also LeoCad drawings of all our robot versions
 It contains software documents with all versions as the project went on, there's also javadoc.zip file captures the structure of our controller.
 #### Testing:
 Aside from documents, it contains the original data gathered during the testing phase of project.
-#### Final Report:
+### Final Report:
 It's the final report pdf signed by all members from Team02.
