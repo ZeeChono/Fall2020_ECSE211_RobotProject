@@ -1,10 +1,34 @@
 # Fall2020_ECSE211_Team02_Atom Project
 ## Structure
-The first level directory contains four folders: **Main Documents, Management, Presentation Material, ProjectController, Supporting Documents, and Final Report**  
+- Main Documents 
+  - Capabilities Documents
+  - Constraints Documents
+  - Requirements Documents
+  - System Documents  
+- Management
+  - Gantt Chart Weekly
+  - Timesheet.xlsx
+- Presentation Material 
+  - poster.ppt
+  - Trailor video
+- ProjectController
+  - Zip files of all versions of controller
+- Supporting Documents
+  - Hardware
+  - Software
+  - Testing
+- Final Report.pdf  
+
 The lines following are going to explain the structures of these four main folders.
 
 ### Main Documents:
-Under this directory, there are **Capabilities Documents, Constraints Documents, Requirements Documents, System Documents**. Each folder contains relative documents with various versions. The naming convention of the documents are `X.AB`, where `X` stands for which week was that document be revised and `AB` stands for how many times that document is modified during that week.   
+Under this directory, there are 
+- Capabilities Documents
+- Constraints Documents
+- Requirements Documents
+- System Documents  
+
+Each folder contains relative documents with various versions. The naming convention of the documents are `X.AB`, where `X` stands for which week was that document be revised and `AB` stands for how many times that document is modified during that week.   
 
 For example: file `Requirements_1.01` means this requirements document is created in **first week**, and this is the **first version during that week**.  
 ### Management:
